@@ -19,6 +19,8 @@ h1 {
   color: #fff;
 }
 
-span {
-  color: #fff;
+#partition {
+  background-color: #fff;
+  height: 30px;
+  text-align: center;
 }
