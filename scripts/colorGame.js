@@ -15,6 +15,7 @@ function init() {
   setupModeButtons();
   // squares function set up
   setupSquares();
+  // reset the squares display
   reset();
 }
 
